@@ -1,0 +1,11 @@
+# string1="ABCDEFGHIJK"
+# print(string1[-3])
+# print("next\n")
+# print(string1[0:11:3])
+# print(len(string1))
+
+# list=["1","4"]
+# print(list)
+# list.reverse()
+# print(list)
+print("hello")
